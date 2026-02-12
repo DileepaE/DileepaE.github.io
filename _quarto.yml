@@ -3,12 +3,14 @@ project:
   output-dir: docs
   
 website:
-  title: "PERSONAL WEB SITE"
+  title: "DE's Web site"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - projects.qmd
+      - talks.qmd
+      - workshops.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/
@@ -20,7 +22,7 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: flatly #cerulean
     toc: true
 
 editor: source

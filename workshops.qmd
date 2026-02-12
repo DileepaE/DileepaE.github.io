@@ -1,0 +1,64 @@
+---
+title: "Workshops"
+---
+
+“Statistical Essentials for Health Data Science” for the Kenya Institute of Primate Research, Nairobi, Kenya (2026).
+
+“Research Dissertation Writing” for Forensic Medicine Trainers & Trainees, Postgraduate Institute of Medicine, University of Colombo (2023).
+
+“Research Dissertation Writing” for Forensic Medicine Trainers & Trainees, Postgraduate Institute of Medicine, University of Colombo (2022).
+
+“Writing Research Proposals” for the seminar series in Postgraduate Diploma in Clinical Haematology, Postgraduate Trainees, Postgraduate Institute of Medicine, University of Colombo (2021)
+
+"Statistical Tests: Part I - Introduction" at the monthly Research Support Centre Lecture Series, Postgraduate Institute of Medicine, University of Colombo (2021).
+
+"Statistical Tests: Part II – Advanced Methods" at the monthly Research Support Centre Lecture Series, Postgraduate Institute of Medicine, University of Colombo (2021).
+
+“Familiarisation of Mendeley reference management software” for Surgical Trainees, College of Surgeons of Sri Lanka (2021). 
+
+“Geospatial technology” for the Academic Staff, Department of Decision Sciences, Faculty of Business, University of Moratuwa, Sri Lanka (2020)
+
+“Preparation of Research Project Proposals” for the Postgraduate Diploma in Clinical Haematology Training program, Postgraduate Institute of Medicine, University of Colombo (2020)
+
+“Applied Medical Statistics” for the Postgraduate trainees, Postgraduate Institute of Medicine, University of Colombo (2020)
+
+“Research Methods” for the MSc Biomedical Informatics Training Program, Postgraduate Institute of Medicine, University of Colombo, Sri Lanka (2020). 
+
+“Sample Size Calculation for Medical Research” at the Monthly Research Meeting, Postgraduate Institute of Medicine, University of Colombo (2019).
+
+“Going beyond audits and getting your research published”, Symposium on Postgraduate Trainees in Anaesthesia Postgraduate Trainees, Postgraduate Institute of Medicine, University of Colombo (2019).
+
+“R programming language: Part I - Introduction” for the Academic staff, Faculty of Commerce and Management Studies, University of Kelaniya (2016)
+
+“R programming language: Part II – Data Analysis” for the Academic staff, Faculty of Commerce and Management Studies, University of Kelaniya (2016)
+
+“Geographical Information System” for MSc Biomedical Informatics Training Program, Postgraduate Institute of Medicine, University of Colombo, Sri Lanka (2016)
+
+“Literature search, referencing and document formatting” for Medical Professionals, Sri Lankan College of Microbiologists (2016).
+
+“Inferential statistics using R software” for Academic Staff, Medical Education Centre, Faculty of Medicine, University of Kelaniya (2015)
+
+“Descriptive statistics using R software” for Academic Staff, Medical Education Centre, Faculty of Medicine, University of Kelaniya (2015)
+
+“Advanced MS Word tools: Preparing a Project Proposal” for Academic Staff, Medical Education Centre, Faculty of Medicine, University of Kelaniya (2015)
+
+“Literature search, referencing and document formatting” for Medical Professionals, Sri Lankan College of Microbiologists (2015).
+
+“Advanced MS Word tools: Preparing a Project Proposal” for Academic Staff, Medical Education Centre, Faculty of Medicine, University of Kelaniya (2014)
+
+“Applications of GIS in Health” for trainees in the MSc (Medical Administration) program, Postgraduate Institute of Medicine, University of Colombo, Sri Lanka (2016).
+
+“How to use Moodle (e-learning platform) to improve the learning experience of students (part 1)” for Academic Staff, Faculty of Medicine, University of Kelaniya, Sri Lanka (2013).
+
+“How to use Moodle (an authoring tool for developing e-learning materials) to improve the learning experience of students” for Academic Staff, Faculty of Medicine, University of Kelaniya, Sri Lanka (2013).
+
+“Biostatistics” for the postgraduate students of MSc Clinical Genetics and MSc Genetic Diagnostics, at the Faculty of Medicine, University of Colombo (2012).
+
+“Health Informatics” workshop series for the healthcare staff in the Gampaha District, Sri Lanka (2012 – 2013). I conducted more than 30 workshops for both hospital and public health staff, including Medical Officers, Nursing Officers, Public Health Inspectors and Public Health Midwives. I volunteered for these six-hour workshops without monetary compensation. These workshops included;  
+*	Introduction to computers  
+*	Introduction to the Internet and email  
+*	Introduction to word processing  
+*	Introduction to working with spreadsheet databases  
+*	Introduction to Geographic Information Systems  
+* Introduction to research methodology
+

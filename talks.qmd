@@ -1,0 +1,36 @@
+---
+title: "Invited talks"
+---
+
+“Challenges in Snakebite envenoming epidemiology and how geospatial modelling can help” at the African Snakebite Alliance meeting, Nairobi, Kenya, 2026. 
+
+“Snakebite Epidemiology in Sri Lanka” at the “Coffee Breaks” for students and Early Career Researchers, Centre for One Health, University of Global Health Equity, Kigali, Rwanda, 2025.
+
+“How to make an effective presentation”, Sri Lanka Surgical Congress, Colombo, Sri Lanka, 2024. 
+
+“Conducting research using secondary data”, Bite-sized CPD, Staff Development Centre, University of Kelaniya, Dalugama, Kelaniya, 2023. 
+
+“Research Process”, Medical Innovative & Technological Society, University of Kelaniya, Ragama, Sri Lanka, 2023. 
+
+“Mapping Snakebite envenoming risk in Sri Lanka with community-based survey” at the African Snakebite Alliance, Nairobi, Kenya, 2022. 
+
+“Conducting Research using secondary data” at the Department of Disability Studies, University of Kelaniya, Ragama, Sri Lanka, 2022.  
+
+“Key statistical concepts for paediatric researchers” at the Pre-congress Workshop - Paediatric Research Made Easy, 14th Annual Scientific Congress of the Sri Lanka College of Paediatricians, Colombo, Sri Lanka, 2022. 
+
+“Interpreting a research paper: Reading between the lines “, SIMCON 2021, Sri Lanka College of Internal Medicine, Colombo, Sri Lanka, 2021.
+
+‘Applied Analytics in the Medical domain’ and Q&A session for the Master of Data Analytics (MDA) program. Faculty of Science, University of Kelaniya, 2022.
+
+“An epidemiological model to aid decision-making for COVID-19 control in Sri Lanka”, UN Resident Coordinator’s Office, Colombo, Sri Lanka, 2020.
+
+“An epidemiological model to aid decision-making for COVID-19 control in Sri Lanka”, World Health Organization, Colombo, Sri Lanka, 2020.
+
+“Spatiotemporal dynamics of snakebite in Sri Lanka”, Snakebite Research meeting, Liverpool School of Tropical disease, Liverpool, United Kingdom, 2019.
+
+ “Going beyond audits and getting your research published”, Symposium for postgraduate trainees in Anesthesia, Specialty Board in Anesthesia, Postgraduate Institute of Medicine, University of Colombo, 2019. 
+ 
+“Reassessment of the prevalence of soil-transmitted helminth infections in Sri Lanka to enable a more focused control program”, NTD Modelling Consortium, STH Modellers meeting, Lancaster University, Lancaster, United Kingdom, 2019. 
+
+Plenary session on “Understanding spatiotemporal dynamics of snakebite in Sri Lanka” at the Young Researchers’ Symposium. Faculty of Medicine, University of Kelaniya, 2019.
+

@@ -4,7 +4,7 @@ about:
   id: me
   template: broadside
   image: img/SX.jpg  #img/profile.png
-  image-width: 100px        # Reduce this number to make it smaller
+  image-width: 80px        # Reduce this number to make it smaller
   image-shape: rounded    # Options: 'round', 'rounded', or 'rectangle'
 
 ---
@@ -29,6 +29,7 @@ National Institute of Business Management, Sri Lanka
 **Bachelor of Medicine, Bachelor of Surgery (MBBS)**   
 University of Kelaniya, Sri Lanka
 
+...
 :::
 
 Thanks for checking out my web site!

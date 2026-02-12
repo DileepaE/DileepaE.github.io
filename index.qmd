@@ -7,7 +7,11 @@ about:
 ---
 
 :::{#me}
-Passionate about neglected tropical diseases & global health. Leverage Spatiotemporal Epidemiology for disease mapping & surveys in low-resource settings.
+
+Dileepa Ediriweera is an experienced academic and public health researcher specialising in geospatial epidemiology and health data science. His work focuses on applying advanced spatiotemporal methods to model and map the risk of Neglected Tropical Diseases (NTDs), including snakebite envenoming (SBE), soil-transmitted helminths (STH), and lyphatic filariais (LF), influencing policy and control strategies in low- and middle-income countries. 
+
+## Research interests
+Dileepa’s research focuses on neglected tropical diseases, global health, spatiotemporal epidemiology, disease mapping and survey designs in low-resource settings.
 
 ## Goals
 

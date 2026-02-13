@@ -20,7 +20,7 @@ National Institute of Business Management, Sri Lanka
 University of Kelaniya, Sri Lanka
 
 
-## <i class="bi-building-check"></i> Memberships in Professional Bodies
+## Memberships in Professional Bodies
 * Fellow of the Higher Education Academy (FHEA), United Kingdom
 * Fellow, Royal Statistical Society, United Kingdom
 * Member, Sri Lanka Medical Council
@@ -31,7 +31,7 @@ University of Kelaniya, Sri Lanka
 * Executive Committee Member, Old Mazenodian Doctors’ Association
 * Assistance Secretory, Old Mazenodian Doctors’ Association
 
-## <i class="bi bi-person-badge"></i> Memberships in Editorial Boards
+## Memberships in Editorial Boards
 * Section Editor, PLoS Neglected Tropical Diseases
 * Assistant Editor, Sri Lanka College of Health Informatics
 * Co-chair of the Editorial Board of the Students Affairs Division, Faculty of Medicine
@@ -40,7 +40,7 @@ University of Kelaniya, Sri Lanka
 * Editor, Health Magazine of the Old Mazenodian Doctors’ Association
 * Editorial board, Health Magazine of the Old Mazenodian Doctors’ Association
 
-## <i class="bi bi-shield-check"></i> Memberships in Ethical Review Commitees
+## Memberships in Ethical Review Commitees
 * Member, Ethical Review Committee, Health Informatics Society of Sri Lanka
 * Member, Ethical Review Committee, Faculty of Medicine, University of Kelaniya, Sri Lanka
 

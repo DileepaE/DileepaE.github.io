@@ -9,11 +9,14 @@ about:
 
 ---
 
-:::{#me}
+:::{#me style="text-align: center;"}
 
-I am a specialist researcher in spatiotemporal disease mapping, dedicated to addressing the health challenges of marginalized populations. I leverage model-based geostatistics to translate complex epidemiological data into high-resolution evidence for global policy and precision resource allocation. As a Fellow of the Higher Education Academy (FHEA) with over a decade of teaching practice, I am committed to developing quantitative literacy among undergraduate and postgraduate medical trainees, mentoring the next generation of researchers, and designing specialist professional training for health practitioners and policymakers.
+I am a specialist researcher in spatiotemporal disease mapping, dedicated to addressing the health challenges of marginalized populations. I leverage model-based geostatistics to translate complex epidemiological data into high-resolution evidence for global policy and precision resource allocation. 
 
-<center> Thanks for checking out my web site! </center>
+As a Fellow of the Higher Education Academy (FHEA) with over a decade of teaching practice, I am committed to developing quantitative literacy among undergraduate and postgraduate trainees, mentoring the next generation of researchers, and designing specialist professional training for health practitioners and policymakers.
+
+
+<center> Thanks for checking out my personal web site! </center>
 
 :::
 

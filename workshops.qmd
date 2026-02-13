@@ -2,7 +2,9 @@
 title: "Workshops"
 ---
 
-“Statistical Essentials for Health Data Science” for the Kenya Institute of Primate Research, Nairobi, Kenya (2026).
+[“Statistical Essentials for Health Data Science”](https://github.com/DileepaE/Statistical-Essentials-for-Health-Data-Science) for the Kenya Institute of Primate Research, Nairobi, Kenya (2026).
+
+["Introduction to R programming language"](https://github.com/DileepaE/R-programming-Language) for Medical students at the Faculty of Medicine, University of Kelaniya, Sri Lanka (2024).
 
 “Research Dissertation Writing” for Forensic Medicine Trainers & Trainees, Postgraduate Institute of Medicine, University of Colombo (2023).
 
@@ -54,11 +56,11 @@ title: "Workshops"
 
 “Biostatistics” for the postgraduate students of MSc Clinical Genetics and MSc Genetic Diagnostics, at the Faculty of Medicine, University of Colombo (2012).
 
-“Health Informatics” workshop series for the healthcare staff in the Gampaha District, Sri Lanka (2012 – 2013). I conducted more than 30 workshops for both hospital and public health staff, including Medical Officers, Nursing Officers, Public Health Inspectors and Public Health Midwives. I volunteered for these six-hour workshops without monetary compensation. These workshops included;  
-* Introduction to computers  
-*	Introduction to the Internet and email  
-*	Introduction to word processing  
-*	Introduction to working with spreadsheet databases  
+“Health Informatics” workshop series for the healthcare staff in the Gampaha District, Sri Lanka. I conducted more than 30 workshops for both hospital and public health staff, including Medical Officers, Nursing Officers, Public Health Inspectors and Public Health Midwives. I volunteered for these six-hour workshops without monetary compensation (2012 – 2013). These workshops included;  
+* Introduction to Computers  
+*	Introduction to the Internet and Email  
+*	Introduction to Word processing  
+*	Introduction to Working with Spreadsheets and Databases  
 *	Introduction to Geographic Information Systems  
-* Introduction to research methodology
+* Introduction to Research methodology
 

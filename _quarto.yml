@@ -3,17 +3,18 @@ project:
   output-dir: docs
   
 website:
-  title: "DE's Web site"
+  title: "" #"DE's Web site"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - bio.qmd
       - projects.qmd
       - talks.qmd
       - workshops.qmd
     tools:
-      - icon: twitter
-        href: https://twitter.com/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/dileepa-ediriweera/
       - icon: github
         href: https://dileepae.github.io/
   page-footer:

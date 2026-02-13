@@ -1,0 +1,49 @@
+---
+title: "Academic Profile"
+---
+
+## <i class="bi bi-mortarboard"></i> Education
+**PhD in Medical Informatics**   
+*Thesis: “Spatiotemporal Methods and Applications in Neglected Tropical Diseases”*  
+University of Kelaniya, Sri Lanka & Lancaster University, United Kingdom  
+
+**MSc in Biomedical Informatics**   
+University of Colombo, Sri Lanka 
+
+**MSc in Biostatistics**   
+University of Peradeniya, Sri Lanka
+
+**Diploma in Computer System Design**  
+National Institute of Business Management, Sri Lanka
+
+**Bachelor of Medicine, Bachelor of Surgery (MBBS)**   
+University of Kelaniya, Sri Lanka
+
+
+## <i class="bi-building-check"></i> Memberships in Professional Bodies
+* Fellow of the Higher Education Academy (FHEA), United Kingdom
+* Fellow, Royal Statistical Society, United Kingdom
+* Member, Sri Lanka Medical Council
+* Member, Sri Lanka Medical Association
+* Member, Sri Lanka College of Health Informatics
+* Member, Institute of Applied Statistics, Sri Lanka
+* Member, Health Informatics Society of Sri Lanka
+* Executive Committee Member, Old Mazenodian Doctors’ Association
+* Assistance Secretory, Old Mazenodian Doctors’ Association
+
+## <i class="bi bi-person-badge"></i> Memberships in Editorial Boards
+* Section Editor, PLoS Neglected Tropical Diseases
+* Assistant Editor, Sri Lanka College of Health Informatics
+* Co-chair of the Editorial Board of the Students Affairs Division, Faculty of Medicine
+* Member, Editorial board, Sri Lankan Journal of Surgery
+* Member, Editorial board, Journal of Ceylon College of Physicians
+* Editor, Health Magazine of the Old Mazenodian Doctors’ Association
+* Editorial board, Health Magazine of the Old Mazenodian Doctors’ Association
+
+## <i class="bi bi-shield-check"></i> Memberships in Ethical Review Commitees
+* Member, Ethical Review Committee, Health Informatics Society of Sri Lanka
+* Member, Ethical Review Committee, Faculty of Medicine, University of Kelaniya, Sri Lanka
+
+
+
+

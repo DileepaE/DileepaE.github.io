@@ -2,34 +2,20 @@
 title: "Dileepa Ediriweera"
 about:
   id: me
-  template: broadside
+  template: jolla #  #Broadside
   image: img/SX.jpg  #img/profile.png
-  image-width: 80px        # Reduce this number to make it smaller
+  image-width: 350px        # Reduce this number to make it smaller
   image-shape: rounded    # Options: 'round', 'rounded', or 'rectangle'
 
 ---
 
 :::{#me}
+
 I am a specialist researcher in spatiotemporal disease mapping, dedicated to addressing the health challenges of marginalized populations. I leverage model-based geostatistics to translate complex epidemiological data into high-resolution evidence for global policy and precision resource allocation. As a Fellow of the Higher Education Academy (FHEA) with over a decade of teaching practice, I am committed to developing quantitative literacy among undergraduate and postgraduate medical trainees, mentoring the next generation of researchers, and designing specialist professional training for health practitioners and policymakers.
 
-## Education
-**PhD in Medical Informatics**   
-*Thesis: “Spatiotemporal Methods and Applications in Neglected Tropical Diseases”*  
-University of Kelaniya, Sri Lanka & Lancaster University, UK  
+<center> Thanks for checking out my web site! </center>
 
-**MSc in Biomedical Informatics**   
-University of Colombo, Sri Lanka 
-
-**MSc in Biostatistics**   
-University of Peradeniya, Sri Lanka
-
-**Diploma in Computer System Design**  
-National Institute of Business Management, Sri Lanka
-
-**Bachelor of Medicine, Bachelor of Surgery (MBBS)**   
-University of Kelaniya, Sri Lanka
-
-...
 :::
 
-Thanks for checking out my web site!
+
+

@@ -2,13 +2,13 @@
 title: "Invited talks"
 ---
 
-“Challenges in Snakebite envenoming epidemiology and how geospatial modelling can help” at the African Snakebite Alliance meeting, Nairobi, Kenya (2026).
+“Challenges in Snakebite envenoming epidemiology and how geospatial modelling can help”, African Snakebite Alliance meeting, Nairobi, Kenya (2026).
 
-"Access to care following snakebite in Rwanda", at Centre for Snakebite Research and Intervention, Liverpool School of Tropical disease, Liverpool, United Kingdom (2025).
+"Access to care following snakebite in Rwanda", Centre for Snakebite Research and Intervention, Liverpool School of Tropical disease, Liverpool, United Kingdom (2025).
 
-“Snakebite Epidemiology in Sri Lanka” at the “Coffee Breaks” for students and Early Career Researchers, Centre for One Health, University of Global Health Equity, Kigali, Rwanda (2025).
+“Snakebite Epidemiology in Sri Lanka”, “Coffee Breaks” for students and Early Career Researchers, Centre for One Health, University of Global Health Equity, Kigali, Rwanda (2025).
 
-"Spatiotemporal modelling and predicting disease risk in unsampled locations", at Centre for Snakebite Research and Intervention, Liverpool School of Tropical disease, Liverpool, United Kingdom (2024).
+"Spatiotemporal modelling and predicting disease risk in unsampled locations", Centre for Snakebite Research and Intervention, Liverpool School of Tropical disease, Liverpool, United Kingdom (2024).
 
 “How to make an effective presentation”, Sri Lanka Surgical Congress, Colombo, Sri Lanka (2024). 
 
@@ -16,15 +16,15 @@ title: "Invited talks"
 
 “Research Process”, Medical Innovative & Technological Society, University of Kelaniya, Ragama, Sri Lanka (2023). 
 
-“Mapping Snakebite envenoming risk in Sri Lanka with community-based survey” at the African Snakebite Alliance, Nairobi, Kenya (2022). 
+“Mapping Snakebite envenoming risk in Sri Lanka with community-based survey”, African Snakebite Alliance, Nairobi, Kenya (2022). 
 
-“Conducting Research using secondary data” at the Department of Disability Studies, University of Kelaniya, Ragama, Sri Lanka (2022).  
+“Conducting Research using secondary data”, Department of Disability Studies, University of Kelaniya, Ragama, Sri Lanka (2022).  
 
-“Key statistical concepts for paediatric researchers” at the Pre-congress Workshop - Paediatric Research Made Easy, 14th Annual Scientific Congress of the Sri Lanka College of Paediatricians, Colombo, Sri Lanka (2022). 
+“Key statistical concepts for paediatric researchers”, Pre-congress Workshop - Paediatric Research Made Easy, 14th Annual Scientific Congress of the Sri Lanka College of Paediatricians, Colombo, Sri Lanka (2022). 
 
 “Interpreting a research paper: Reading between the lines “, SIMCON 2021, Sri Lanka College of Internal Medicine, Colombo, Sri Lanka (2021).
 
-‘Applied Analytics in the Medical domain’ and Q&A session for the Master of Data Analytics (MDA) program. Faculty of Science, University of Kelaniya (2022).
+‘Applied Analytics in the Medical domain’ and Q&A session, Master of Data Analytics (MDA) program. Faculty of Science, University of Kelaniya (2022).
 
 “An epidemiological model to aid decision-making for COVID-19 control in Sri Lanka”, UN Resident Coordinator’s Office, Colombo, Sri Lanka (2020).
 

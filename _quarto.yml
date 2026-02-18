@@ -10,8 +10,8 @@ website:
         text: Home
       - bio.qmd
       - projects.qmd
-      - talks.qmd
       - workshops.qmd
+      - talks.qmd
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/dileepa-ediriweera/

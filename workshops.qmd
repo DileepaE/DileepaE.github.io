@@ -1,5 +1,5 @@
 ---
-title: "Workshops"
+title: "Teaching"
 ---
 
 [“Statistical Essentials for Health Data Science”](https://github.com/DileepaE/Statistical-Essentials-for-Health-Data-Science) for the Kenya Institute of Primate Research, Nairobi, Kenya (2026).

@@ -2,6 +2,8 @@
 title: "Invited talks"
 ---
 
+“Predicting snakebite risk with environmental variables”, RSTMH International Snakebite Awareness Day Webinar: Connecting Climate, Communities and Care Through a One Health Approach, Royal Society of Tropical Medicine and Hygiene (2026).
+
 “Challenges in Snakebite envenoming epidemiology and how geospatial modelling can help”, African Snakebite Alliance meeting, Nairobi, Kenya (2026).
 
 "Access to care following snakebite in Rwanda", Centre for Snakebite Research and Intervention, Liverpool School of Tropical disease, Liverpool, United Kingdom (2025).

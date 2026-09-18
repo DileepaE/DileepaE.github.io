@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - bio.qmd
-      - projects.qmd
+      - research.qmd
       - workshops.qmd
       - talks.qmd
     tools:

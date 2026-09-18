@@ -38,7 +38,6 @@ Awards arising from the thesis
 ## Complete Bibliography & Citation Metrics
 A live-updated repository of my peer-reviewed work, citation trajectories, and co-author networks can be accessed via my My [Google Scholar Profile](https://scholar.google.com/citations?user=ZDZy6sEAAAAJ&hl=en). A chronological list of my first author and co-author publications are also detailed below.
 
-
 ## First author Publications
 * **Ediriweera DS**, Kasturiratne A, Pathmeswaran A, Stienstra Y, Martín G, Iwamura T, Murray KA, de Silva HJ, Diggle PJ, Lalloo DG. Estimates of global burden of snakebite: a literature review and geostatistical modelling study. *PLoS Medicine*. 2026 Aug 25;23(8):e1005201.
 * **Ediriweera DS**, Hakizimana D, Diggle PJ, Schurer JM. Community-based snakebite risk mapping for resource prioritisation in Eastern Province, Rwanda. *Transactions of The Royal Society of Tropical Medicine and Hygiene*. 2025 Jan 3:trae069.

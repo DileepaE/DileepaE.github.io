@@ -34,6 +34,28 @@ Awards arising from the thesis
 * Third place poster prize, Royal Statistical Society International Conference (2018)
 * Taylor & Francis Commonwealth Scholar Best Journal Article Prize 2020 - highly commended for publication (one of the three finalists)
 
+## Public Health Contributions
+* **Pandemic Response & Decision Support**
+    * **Presidential Advisory Modelling:** Generated district-level epidemiological trends and calculated the time-varying reproduction number, $R(t)$, for the National COVID-19 Daily Situation Report to guide state mitigation policies.
+    * **Vaccine Effectiveness Evaluation:** Conducted an island-wide study to assess the real-world effectiveness of the Sinopharm vaccine to inform national immunisation strategies.
+    * **Mortality Data Analysis:** Conducted a comprehensive analysis of deaths related to COVID-19 and identified demographic and clinical patterns of the deceased.
+    * **Predictive Health Informatics:** Developed and deployed a web application to project nationwide critical care and ICU bed requirements during pandemic surges.
+    * **National Impact Evaluation:** Co-designed a nationwide survey tracking the impacts of COVID-19 on higher education students to shape institutional student-welfare policies.
+
+* **Epidemiological Surveillance & Resource Optimisation**
+    * **Policy De-escalation Frameworks:** Translated large-scale soil-transmitted helminth (STH) spatial prevalence data into national guidelines, safely scaling down the national deworming program and optimising public expenditure.
+    * **Sentinel Surveillance Design:** Developed the statistical sampling methodology for the National Sentinel Surveillance of STH among school children to optimise data collection in high-risk areas.
+
+* **Digital Health Infrastructure & Systems Engineering**
+    * **District-Wide ICT Transformation:** Directed the architecture and deployment of the IT infrastructure across health offices, base hospitals, and Medical Officer of Health (MOH) zones in the Gampaha District.
+    * **Digital Health Integration:** Digitised regional healthcare workflows by introducing the electronic Indoor Morbidity and Mortality Register (eIMMR), deploying the secure government email ecosystem, and coordinating the paperless eDompe Hospital project.
+    * **Geospatial Health Mapping:** Engineered GIS boundary maps for frontline sectors (MOH, PHI, and Public Health Midwives) and constructed national incidence maps for leprosy and tuberculosis to target field interventions.
+    * **Ministerial Representation:** Represented the academic and health informatics sector at statutory forums and national strategy conferences organised by the Ministry of Health.
+
+## Policy translations
+*	Deworming Policy Optimisation (Sri Lanka): Translated national spatial prevalence modelling of soil-transmitted helminths into updated ministry guidelines, safely de-escalating the national deworming program and optimising public expenditure.
+*	Lymphatic Filariasis Elimination (Timor-Leste): Co-designed sampling methodology with WHO and Hanyang University validating Timor-Leste's official elimination of LF as a public health problem.
+
 
 ## Complete Bibliography & Citation Metrics
 A live-updated repository of my peer-reviewed work, citation trajectories, and co-author networks can be accessed via my My [Google Scholar Profile](https://scholar.google.com/citations?user=ZDZy6sEAAAAJ&hl=en). A chronological list of my first author and co-author publications are also detailed below.

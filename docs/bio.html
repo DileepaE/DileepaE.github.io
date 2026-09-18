@@ -74,6 +74,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -132,6 +161,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#memberships-in-editorial-boards" id="toc-memberships-in-editorial-boards" class="nav-link" data-scroll-target="#memberships-in-editorial-boards">Memberships in Editorial Boards</a></li>
   <li><a href="#memberships-in-ethical-review-commitees" id="toc-memberships-in-ethical-review-commitees" class="nav-link" data-scroll-target="#memberships-in-ethical-review-commitees">Memberships in Ethical Review Commitees</a></li>
   <li><a href="#honors-academic-awards" id="toc-honors-academic-awards" class="nav-link" data-scroll-target="#honors-academic-awards">Honors &amp; Academic Awards</a></li>
+  <li><a href="#contributions" id="toc-contributions" class="nav-link" data-scroll-target="#contributions">Contributions</a></li>
   </ul>
 </nav>
     </div>
@@ -215,6 +245,31 @@ University of Kelaniya, Sri Lanka</p>
 <li><strong>Wilson Peiris Prize:</strong> Awarded for the development of a snakebite risk map for Sri Lanka at the Annual Academic Sessions of the Sri Lanka Medical Association, Colombo (2016).</li>
 <li><strong>First Place Oral Presentation Prize:</strong> Recognized for <em>“Epidemiology of stroke in the Ragama MOH area: Preliminary data from a community survey”</em> at the Association of Sri Lankan Neurologists Annual Congress, Colombo, Sri Lanka (2026).</li>
 <li><strong>Best Publication Award by a Physician:</strong> Awarded for <em>“Evaluation of BBIBP-CorV Sinopharm COVID-19 vaccine effectiveness in Sri Lanka: a test-negative case control study”</em> at the Sri Lanka College of Internal Medicine Annual Academic Session, Colombo, Sri Lanka (2025).</li>
+</ul>
+</section>
+<section id="contributions" class="level2">
+<h2 class="anchored" data-anchor-id="contributions">Contributions</h2>
+<ul>
+<li><strong>Pandemic Response &amp; Decision Support</strong>
+<ul>
+<li><strong>Presidential Advisory Modelling:</strong> Generated district-level epidemiological trends and calculated the time-varying reproduction number, <span class="math inline">\(R(t)\)</span>, for the National COVID-19 Daily Situation Report to guide state mitigation policies.</li>
+<li><strong>Vaccine Effectiveness Evaluation:</strong> Conducted an island-wide study to assess the real-world effectiveness of the Sinopharm vaccine to inform national immunisation strategies.</li>
+<li><strong>Mortality Data Analysis:</strong> Conducted a comprehensive analysis of deaths related to COVID-19 and identified demographic and clinical patterns of the deceased.</li>
+<li><strong>Predictive Health Informatics:</strong> Developed and deployed a web application to project nationwide critical care and ICU bed requirements during pandemic surges.</li>
+<li><strong>National Impact Evaluation:</strong> Co-designed a nationwide survey tracking the impacts of COVID-19 on higher education students to shape institutional student-welfare policies.</li>
+</ul></li>
+<li><strong>Epidemiological Surveillance &amp; Resource Optimisation</strong>
+<ul>
+<li><strong>Deworming Policy Optimisation (Sri Lanka):</strong> Translated national spatial prevalence modelling of soil-transmitted helminths into updated ministry guidelines, safely de-escalating the national deworming program and optimising public expenditure.</li>
+<li><strong>Lymphatic Filariasis Elimination (Timor-Leste):</strong> Co-designed sampling methodology with WHO and Hanyang University validating Timor-Leste’s official elimination of LF as a public health problem.</li>
+<li><strong>Sentinel Surveillance Design:</strong> Developed the statistical sampling methodology for the National Sentinel Surveillance of STH among school children to optimise data collection in high-risk areas.</li>
+</ul></li>
+<li><strong>Digital Health Infrastructure &amp; Systems Engineering</strong>
+<ul>
+<li><strong>District-Wide ICT Transformation:</strong> Directed the architecture and deployment of the IT infrastructure across health offices, base hospitals, and Medical Officer of Health (MOH) zones in the Gampaha District.</li>
+<li><strong>Digital Health Integration:</strong> Digitised regional healthcare workflows by introducing the electronic Indoor Morbidity and Mortality Register (eIMMR), deploying the secure government email ecosystem, and coordinating the paperless eDompe Hospital project.</li>
+<li><strong>Geospatial Health Mapping:</strong> Engineered GIS boundary maps for frontline sectors (MOH, PHI, and Public Health Midwives) and constructed national incidence maps for leprosy and tuberculosis to target field interventions.</li>
+</ul></li>
 </ul>
 
 

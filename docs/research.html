@@ -74,35 +74,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -158,7 +129,6 @@ window.Quarto = {
   <ul>
   <li><a href="#research-interests" id="toc-research-interests" class="nav-link active" data-scroll-target="#research-interests">Research interests</a></li>
   <li><a href="#doctoral-research" id="toc-doctoral-research" class="nav-link" data-scroll-target="#doctoral-research">Doctoral Research</a></li>
-  <li><a href="#public-health-contributions" id="toc-public-health-contributions" class="nav-link" data-scroll-target="#public-health-contributions">Public Health Contributions</a></li>
   <li><a href="#complete-bibliography-citation-metrics" id="toc-complete-bibliography-citation-metrics" class="nav-link" data-scroll-target="#complete-bibliography-citation-metrics">Complete Bibliography &amp; Citation Metrics</a></li>
   <li><a href="#full-list-of-publications" id="toc-full-list-of-publications" class="nav-link" data-scroll-target="#full-list-of-publications">Full list of publications</a></li>
   </ul>
@@ -218,31 +188,6 @@ Commonwealth Doctoral Scholarship (split-site) recipient (2017)</p>
 <li>Wilson Peiris Prize, Sri Lanka Medical Association (2016)</li>
 <li>Third place poster prize, Royal Statistical Society International Conference (2018)</li>
 <li>Taylor &amp; Francis Commonwealth Scholar Best Journal Article Prize 2020 - highly commended for publication (one of the three finalists)</li>
-</ul>
-</section>
-<section id="public-health-contributions" class="level2">
-<h2 class="anchored" data-anchor-id="public-health-contributions">Public Health Contributions</h2>
-<ul>
-<li><strong>Pandemic Response &amp; Decision Support</strong>
-<ul>
-<li><strong>Presidential Advisory Modelling:</strong> Generated district-level epidemiological trends and calculated the time-varying reproduction number, <span class="math inline">\(R(t)\)</span>, for the National COVID-19 Daily Situation Report to guide state mitigation policies.</li>
-<li><strong>Vaccine Effectiveness Evaluation:</strong> Conducted an island-wide study to assess the real-world effectiveness of the Sinopharm vaccine to inform national immunisation strategies.</li>
-<li><strong>Mortality Data Analysis:</strong> Conducted a comprehensive analysis of deaths related to COVID-19 and identified demographic and clinical patterns of the deceased.</li>
-<li><strong>Predictive Health Informatics:</strong> Developed and deployed a web application to project nationwide critical care and ICU bed requirements during pandemic surges.</li>
-<li><strong>National Impact Evaluation:</strong> Co-designed a nationwide survey tracking the impacts of COVID-19 on higher education students to shape institutional student-welfare policies.</li>
-</ul></li>
-<li><strong>Epidemiological Surveillance &amp; Resource Optimisation</strong>
-<ul>
-<li><strong>Deworming Policy Optimisation (Sri Lanka):</strong> Translated national spatial prevalence modelling of soil-transmitted helminths into updated ministry guidelines, safely de-escalating the national deworming program and optimising public expenditure.</li>
-<li><strong>Lymphatic Filariasis Elimination (Timor-Leste):</strong> Co-designed sampling methodology with WHO and Hanyang University validating Timor-Leste’s official elimination of LF as a public health problem.</li>
-<li><strong>Sentinel Surveillance Design:</strong> Developed the statistical sampling methodology for the National Sentinel Surveillance of STH among school children to optimise data collection in high-risk areas.</li>
-</ul></li>
-<li><strong>Digital Health Infrastructure &amp; Systems Engineering</strong>
-<ul>
-<li><strong>District-Wide ICT Transformation:</strong> Directed the architecture and deployment of the IT infrastructure across health offices, base hospitals, and Medical Officer of Health (MOH) zones in the Gampaha District.</li>
-<li><strong>Digital Health Integration:</strong> Digitised regional healthcare workflows by introducing the electronic Indoor Morbidity and Mortality Register (eIMMR), deploying the secure government email ecosystem, and coordinating the paperless eDompe Hospital project.</li>
-<li><strong>Geospatial Health Mapping:</strong> Engineered GIS boundary maps for frontline sectors (MOH, PHI, and Public Health Midwives) and constructed national incidence maps for leprosy and tuberculosis to target field interventions.</li>
-</ul></li>
 </ul>
 </section>
 <section id="complete-bibliography-citation-metrics" class="level2">

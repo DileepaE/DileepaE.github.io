@@ -55,23 +55,3 @@ University of Kelaniya, Sri Lanka
 * **First Place Oral Presentation Prize:** Recognized for *"Epidemiology of stroke in the Ragama MOH area: Preliminary data from a community survey"* at the Association of Sri Lankan Neurologists Annual Congress, Colombo, Sri Lanka (2026).
 * **Best Publication Award by a Physician:** Awarded for *"Evaluation of BBIBP-CorV Sinopharm COVID-19 vaccine effectiveness in Sri Lanka: a test-negative case control study"* at the Sri Lanka College of Internal Medicine Annual Academic Session, Colombo, Sri Lanka (2025).
 
-
-## Public Health Contributions
-* **Pandemic Response & Decision Support**
-    * **Presidential Advisory Modelling:** Generated district-level epidemiological trends and calculated the time-varying reproduction number, $R(t)$, for the National COVID-19 Daily Situation Report to guide state mitigation policies.
-    * **Vaccine Effectiveness Evaluation:** Conducted an island-wide study to assess the real-world effectiveness of the Sinopharm vaccine to inform national immunisation strategies.
-    * **Mortality Data Analysis:** Conducted a comprehensive analysis of deaths related to COVID-19 and identified demographic and clinical patterns of the deceased.
-    * **Predictive Health Informatics:** Developed and deployed a web application to project nationwide critical care and ICU bed requirements during pandemic surges.
-    * **National Impact Evaluation:** Co-designed a nationwide survey tracking the impacts of COVID-19 on higher education students to shape institutional student-welfare policies.
-
-* **Epidemiological Surveillance & Resource Optimisation**
-    * **Policy De-escalation Frameworks:** Translated large-scale soil-transmitted helminth (STH) spatial prevalence data into national guidelines, safely scaling down the national deworming program and optimising public expenditure.
-    * **Sentinel Surveillance Design:** Developed the statistical sampling methodology for the National Sentinel Surveillance of STH among school children to optimise data collection in high-risk areas.
-
-* **Digital Health Infrastructure & Systems Engineering**
-    * **District-Wide ICT Transformation:** Directed the architecture and deployment of the IT infrastructure across health offices, base hospitals, and Medical Officer of Health (MOH) zones in the Gampaha District.
-    * **Digital Health Integration:** Digitised regional healthcare workflows by introducing the electronic Indoor Morbidity and Mortality Register (eIMMR), deploying the secure government email ecosystem, and coordinating the paperless eDompe Hospital project.
-    * **Geospatial Health Mapping:** Engineered GIS boundary maps for frontline sectors (MOH, PHI, and Public Health Midwives) and constructed national incidence maps for leprosy and tuberculosis to target field interventions.
-    * **Ministerial Representation:** Represented the academic and health informatics sector at statutory forums and national strategy conferences organised by the Ministry of Health.
-
-

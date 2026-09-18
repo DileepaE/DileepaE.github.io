@@ -10,6 +10,7 @@ website:
         text: Home
       - bio.qmd
       - research.qmd
+      - projects.qmd
       - workshops.qmd
       - talks.qmd
     tools:

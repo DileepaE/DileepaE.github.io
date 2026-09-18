@@ -51,6 +51,7 @@ Awards arising from the thesis
 * **Ediriweera DS**, Dilina N, Perera U, Flores F, Samita S. Risk of low birth weight on adulthood hypertension-evidence from a tertiary care hospital in a South Asian country, Sri Lanka: a retrospective cohort study. *BMC Public Health*. 2017 Dec;17(1):1-6
 * **Ediriweera DS**, Kumarage S, Deen KI. Comparison of hazard of death following surgery for colon versus rectal cancer. Ceylon Medical Journal. *Ceylon Medical Journal*. 2016; 61(2), pp.52–55.
 
+
 ## Policy translations
 *	Deworming Policy Optimisation (Sri Lanka): Translated national spatial prevalence modelling of soil-transmitted helminths into updated ministry guidelines, safely de-escalating the national deworming program and optimising public expenditure.
 *	Lymphatic Filariasis Elimination (Timor-Leste): Co-designed sampling methodology with WHO and Hanyang University validating Timor-Leste's official elimination of LF as a public health problem.

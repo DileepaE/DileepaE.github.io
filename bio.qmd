@@ -1,5 +1,5 @@
 ---
-title: "Academic Profile"
+title: "Profile"
 ---
 
 ## <i class="bi bi-mortarboard"></i> Education
@@ -45,5 +45,33 @@ University of Kelaniya, Sri Lanka
 * Member, Ethical Review Committee, Faculty of Medicine, University of Kelaniya, Sri Lanka
 
 
+## Honors & Academic Awards
+* **The President’s Award for Scientific Publication:** Conferred Sri Lanka\'s highest national accolade for scientific research across multiple years (2018, 2019, 2019, 2021, 2022) in recognition of landmark, top-tier peer-reviewed research papers.
+* **National Research Council (NRC) Merit Award:** Conferred the second-highest national research honour in Sri Lanka (2019, 2019, 2026, 2026, 2026) for executing high-impact, peer-reviewed research papers.
+* **Winner, Best Publication Award by a Physician:** Awarded by the Sri Lanka College of Internal Medicine Annual Sessions for national vaccine effectiveness evaluation analytics (2025).
+* **Winner, E M Wijerama Prize:** Received at the 136th Sri Lanka Medical Association Anniversary International Medical Congress (2023).
+* **Highly Commended Finalist:** Taylor & Francis Commonwealth Scholar Best Journal Article Prize for soil-transmitted helminth national school survey spatial modelling published in *The Lancet Global Health* (2020).
+* **Wilson Peiris Prize:** Awarded for the development of a snakebite risk map for Sri Lanka at the Annual Academic Sessions of the Sri Lanka Medical Association, Colombo (2016).
+* **First Place Oral Presentation Prize:** Recognized for *"Epidemiology of stroke in the Ragama MOH area: Preliminary data from a community survey"* at the Association of Sri Lankan Neurologists Annual Congress, Colombo, Sri Lanka (2026).
+* **Best Publication Award by a Physician:** Awarded for *"Evaluation of BBIBP-CorV Sinopharm COVID-19 vaccine effectiveness in Sri Lanka: a test-negative case control study"* at the Sri Lanka College of Internal Medicine Annual Academic Session, Colombo, Sri Lanka (2025).
+
+
+## Public Health Contributions
+* **Pandemic Response & Decision Support**
+    * **Presidential Advisory Modelling:** Generated district-level epidemiological trends and calculated the time-varying reproduction number, $R(t)$, for the National COVID-19 Daily Situation Report to guide state mitigation policies.
+    * **Vaccine Effectiveness Evaluation:** Conducted an island-wide study to assess the real-world effectiveness of the Sinopharm vaccine to inform national immunisation strategies.
+    * **Mortality Data Analysis:** Conducted a comprehensive analysis of deaths related to COVID-19 and identified demographic and clinical patterns of the deceased.
+    * **Predictive Health Informatics:** Developed and deployed a web application to project nationwide critical care and ICU bed requirements during pandemic surges.
+    * **National Impact Evaluation:** Co-designed a nationwide survey tracking the impacts of COVID-19 on higher education students to shape institutional student-welfare policies.
+
+* **Epidemiological Surveillance & Resource Optimisation**
+    * **Policy De-escalation Frameworks:** Translated large-scale soil-transmitted helminth (STH) spatial prevalence data into national guidelines, safely scaling down the national deworming program and optimising public expenditure.
+    * **Sentinel Surveillance Design:** Developed the statistical sampling methodology for the National Sentinel Surveillance of STH among school children to optimise data collection in high-risk areas.
+
+* **Digital Health Infrastructure & Systems Engineering**
+    * **District-Wide ICT Transformation:** Directed the architecture and deployment of the IT infrastructure across health offices, base hospitals, and Medical Officer of Health (MOH) zones in the Gampaha District.
+    * **Digital Health Integration:** Digitised regional healthcare workflows by introducing the electronic Indoor Morbidity and Mortality Register (eIMMR), deploying the secure government email ecosystem, and coordinating the paperless eDompe Hospital project.
+    * **Geospatial Health Mapping:** Engineered GIS boundary maps for frontline sectors (MOH, PHI, and Public Health Midwives) and constructed national incidence maps for leprosy and tuberculosis to target field interventions.
+    * **Ministerial Representation:** Represented the academic and health informatics sector at statutory forums and national strategy conferences organised by the Ministry of Health.
 
 
